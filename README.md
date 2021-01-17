@@ -36,11 +36,11 @@ Some community roles exist formally and informally, and they all should follow [
 
 Mozilla Voice has a variety of communities that support the project in different important areas, they are usually grouped by language.
 
-The work done by these communities advance a language from not having a presence in Mozilla Voice at all to being able to generate a functional speech to text (STT) model which is able to understand how people speak.
+The work done by these communities advances a language from not having a presence in Mozilla Voice at all to being able to generate a functional speech-to-text (STT) model which is able to understand how people speak.
 
 ![Voice journey quantities](/assets/img/voice-journey.png)
 
-✈️ The journey involves collect and validate public domain sentences (1), record and validate voices reading the sentences (2), repeat to grow the size of the data (3), generate a dataset (4) and use machine learning to train speech to text models using this dataset (5).
+✈️ The journey involves collect and validate public domain sentences (1), record and validate voices reading the sentences (2), repeat to grow the size of the data (3), generate a dataset (4) and use machine learning to train speech-to-text models using this dataset (5).
 
 <table>
   <tbody>
